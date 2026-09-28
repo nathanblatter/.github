@@ -1,6 +1,6 @@
 # nathanblatter
 
-This is where [Nathan Blatter](https://nathanblatter.com) keeps his code. Everything here is self-hosted on a Mac mini behind Cloudflare Tunnels and deployed through GitHub Actions with real test gates.
+This is where I ([Nathan Blatter](https://nathanblatter.com)) keeps keep my code. Everything here is self-hosted on a Mac mini behind Cloudflare Tunnels and deployed through GitHub Actions with real test gates.
 
 ## Where to look first
 
